@@ -1,3 +1,0 @@
-C:/Users/maism/CLionProjects/CS251Lab4/cmake-build-debug/CMakeFiles/CS251Lab4.dir
-C:/Users/maism/CLionProjects/CS251Lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/maism/CLionProjects/CS251Lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
